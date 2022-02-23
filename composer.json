@@ -1,0 +1,22 @@
+{
+    "name": "booosta/image",
+    "description": "Image file handling functions for Booosta PHP Framework without upload features",
+    "license": "LGPL-3.0-only",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "booosta\\image\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Peter Buzanits",
+            "email": "peter@icb.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0.0",
+        "booosta/imagefile": "dev-master"
+    }
+}
