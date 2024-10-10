@@ -17,6 +17,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=8.0.0",
-        "booosta/imagefile": "dev-master"
+        "booosta/imagefile": "^4.0"
     }
 }
